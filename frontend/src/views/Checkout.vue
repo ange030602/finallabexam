@@ -28,7 +28,7 @@
       </tbody>
     </table>
     <div v-else>
-      <p>No checkout data found.</p>
+      <p>No Checkout Data Found.</p>
     </div>
   </div>
 </template>
